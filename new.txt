@@ -1,0 +1,4 @@
+﻿Saved Calculations
+1 x 3 = 3
+8 ÷ 0 = Error: Can't divide by zero
+3 - 9.7 = -6.699999999999999

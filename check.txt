@@ -1,0 +1,8 @@
+Saved Calculations
+1 x 2 = 2
+1 ÷ 0 = Error: Can't divide by zero
+3 + 5 = 8
+9 - 2 = 7
+213.232 ÷ 32.123 = 6.637985244217539
+232 ÷ 0 = Error: Can't divide by zero
+32412341 x 2134213421351235 = 69174853179612909591135
